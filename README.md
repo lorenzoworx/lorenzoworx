@@ -13,7 +13,7 @@
 * 🔭 I am currently exploring the web development world.
 * 👯 I am looking to collaborate on some cool projects
 * 💬 Talk to me about Tech related stuff
-* 📫 How to reach me: okolooshoke@gmail.com
+* 📫 How to reach me: asocialinfroverf@gmail.com
 
 <div align="center">
 
